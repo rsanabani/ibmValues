@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+*.pid
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Backup files
+*.~*
+*.save
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.idea
+*.iml
+.vscode/

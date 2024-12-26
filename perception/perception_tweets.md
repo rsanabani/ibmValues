@@ -2,7 +2,7 @@
 We are is analyzing a batch of tweets that discuss various aspects of open-source AI ecosystems, decentralized technologies, incentivized testnets, corporate involvement in open-source, community engagement, emerging AI tools, and related themes. Your goal is to help us understand how to better engage with and amplify their open-source presence. This involves identifying key trends, community sentiments, and factors influencing adoption and collaboration.
  
 **Input Data Description:**  
-You have been provided with a set of tweets as input. Do your best to separate and understand tweets logically and understand teh collection of tweets in their entirety. Extract and analyze data carefully and accurately.
+You have been provided with a set of tweets as input. Do your best to separate and understand tweets logically and understand the collection of tweets in their entirety. Extract and analyze data carefully and accurately.
  
 **Instructions:**  
 1. **Read through all provided tweets carefully before producing results.**  
