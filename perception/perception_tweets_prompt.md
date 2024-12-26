@@ -1,3 +1,11 @@
+rational and solid examples
+(helps it imporive its analysis) - takes more time 
+be explicit about confidence thta the data, lean more towards lower number
+confidence score if unknown give it N/A if trace were not present in tweet set
+if value/tweet association, is too vague discard example 
+
+is that sentiment directly exoressed towards the company or is it implied 
+
 **Context and Objective:**  
 We are is analyzing a batch of tweets that discuss various aspects of open-source AI ecosystems, decentralized technologies, incentivized testnets, corporate involvement in open-source, community engagement, emerging AI tools, and related themes. Your goal is to help us understand how to better engage with and amplify their open-source presence. This involves identifying key trends, community sentiments, and factors influencing adoption and collaboration.
  
